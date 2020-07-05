@@ -1,4 +1,4 @@
-# Heart-Disease-Prediction
+# Heart-Disease-Diagnosis-Application
 
 ### Check out the Streamlit web app below - 
 https://heart-disease-diagnostics.herokuapp.com/
