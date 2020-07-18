@@ -1,6 +1,6 @@
 # Heart-Disease-Diagnosis-Application
 
-### Check out the Streamlit web app below - 
+### Check out the Streamlit Web Application below - 
 https://heart-disease-diagnostics.herokuapp.com/
 
 ![Heart Disease Diagnosis Assistant Demo](Data/Demo.gif)
@@ -9,6 +9,9 @@ https://heart-disease-diagnostics.herokuapp.com/
 ## Problem Definition
 
 ***Given clinical parameters about a person, can we predict whether or not they have heart disease?***
+
+### Dataset - 
+UCI Heart Disease dataset from Kaggle is being used for this project. 
 
 ### Features - 
 
