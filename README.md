@@ -1,4 +1,5 @@
 # Heart-Disease-Diagnosis-Application
+Heart Disease Prediction Pipeline using Luigi and Ensemble Modeling.
 
 ### Check out the Streamlit Web Application below - 
 https://heart-disease-diagnostics.herokuapp.com/
