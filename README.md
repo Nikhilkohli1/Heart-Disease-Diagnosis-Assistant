@@ -59,7 +59,7 @@ UCI Heart Disease dataset from Kaggle is being used for this project.
 
 ## feature Selection & Inference Pipeline (Luigi)
 
-***Based on the extensive feature selection*** and looking at all aspects of Training accuracy, Testing Accuracy, Precision & Recall, ***I have selected 3 different models*** as the best estimators. I got a ***Test accuracy of 88.5% and f1 score of 89%*** on all of these.
+***Based on the extensive feature selection using RFECV (Recursive feature elimination with Cross Validation) and Meta Transofrmer*** and looking at all aspects of Training accuracy, Testing Accuracy, Precision & Recall, ***I have selected 3 different models*** as the best estimators. I got a ***Test accuracy of 88.5% and f1 score of 89%*** on all of these.
 
 I have further created a Ensemble max voting of the predictions from these 3 models to bring more generalization to the final prediction.
 
